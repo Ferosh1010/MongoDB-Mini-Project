@@ -33,9 +33,12 @@ Jupyter Notebook
 6.Update_one():
 
  "This will update or Create one new Document or Field into the Database".
-7.Update_many():
+ 
+ 7.Update_many():
 
 "This will update or Create more than one new Document or Field into the Database".
+
 8.Delete_one():
 
 "This will delete one field data from the Database"
+
